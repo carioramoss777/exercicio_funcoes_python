@@ -10,7 +10,7 @@ def media(lista):
 
 def menu():
     while True:
-        print("\n--- MENU ---")
+        print("\n--- MENU PRINCIPAL ---")
         print("1 -> Somar dois números")
         print("2 -> Calcular a média de uma lista de valores")
         print("3 -> Sair")
